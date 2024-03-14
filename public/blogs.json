@@ -1,0 +1,52 @@
+[
+    {
+        "id": 123456,
+        "cover": "https://example.com/cover1.jpg",
+        "title": "The Art of Programming",
+        "author": "John Smith",
+        "img": "https://example.com/img1.jpg",
+        "posted_date": "2024-01-23",
+        "reading_time": "15 mins",
+        "hashtags": ["programming", "coding", "development"]
+    },
+    {
+        "id": 789012,
+        "cover": "https://example.com/cover2.jpg",
+        "title": "Exploring the Universe",
+        "author": "Jane Doe",
+        "img": "https://example.com/img2.jpg",
+        "posted_date": "2024-01-22",
+        "reading_time": "30 mins",
+        "hashtags": ["space", "science", "exploration"]
+    },
+    {
+        "id": 345678,
+        "cover": "https://example.com/cover3.jpg",
+        "title": "Cooking with Flavor",
+        "author": "Alice Johnson",
+        "img": "https://example.com/img3.jpg",
+        "posted_date": "2024-01-21",
+        "reading_time": "20 mins",
+        "hashtags": ["cooking", "food", "recipes"]
+    },
+    {
+        "id": 901234,
+        "cover": "https://example.com/cover4.jpg",
+        "title": "Fitness for Life",
+        "author": "Michael Brown",
+        "img": "https://example.com/img4.jpg",
+        "posted_date": "2024-01-20",
+        "reading_time": "25 mins",
+        "hashtags": ["fitness", "health", "exercise"]
+    },
+    {
+        "id": 567890,
+        "cover": "https://example.com/cover5.jpg",
+        "title": "Traveling the World",
+        "author": "Emily Wilson",
+        "img": "https://example.com/img5.jpg",
+        "posted_date": "2024-01-19",
+        "reading_time": "45 mins",
+        "hashtags": ["travel", "adventure", "explore"]
+    }
+]
